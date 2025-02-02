@@ -1,0 +1,32 @@
+{
+    "citizens": [
+      {
+        "citizen_id": "A1234",
+        "name": "Johnmicheal Uzendu",
+        "dob": "1990-05-15",
+        "gender": "M",
+        "school_name": "Enugu State University of Science and Technology"
+      },
+      {
+        "citizen_id": "B5678",
+        "name": "Ifeoluwa Johnson",
+        "dob": "1985-08-22",
+        "gender": "F",
+        "school_name": "Abuja University"
+      },
+      {
+        "citizen_id": "C9012",
+        "name": "Michael Obi",
+        "dob": "1995-03-30",
+        "gender": "M",
+        "school_name": "Lagos State University"
+      },
+      {
+        "citizen_id": "E7890",
+        "name": "Ademola Brown",
+        "dob": "1992-07-18",
+        "gender": "F",
+        "school_name": "Holy Rosary College"
+      }
+    ]
+  }

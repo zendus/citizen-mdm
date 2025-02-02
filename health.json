@@ -1,0 +1,32 @@
+{
+    "citizens": [
+      {
+        "citizen_id": "A1234",
+        "name": "Johnmicheal Uzendu",
+        "dob": "1990-05-15",
+        "gender": "M",
+        "health_status": "Healthy"
+      },
+      {
+        "citizen_id": "B5678",
+        "name": "Ifeoluwa Johnson",
+        "dob": "1985-08-22",
+        "gender": "F",
+        "health_status": "Under Treatment"
+      },
+      {
+        "citizen_id": "C9012",
+        "name": "",
+        "dob": "1995-03-30",
+        "gender": "M",
+        "health_status": "Healthy"
+      },
+      {
+        "citizen_id": "D3456",
+        "name": "Emily Davis",
+        "dob": "1988-11-12",
+        "gender": "F",
+        "health_status": "Regular Checkup"
+      }
+    ]
+  }
