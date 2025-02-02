@@ -36,7 +36,7 @@ citizen-mdm/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/citizen-mdm.git
+   git clone https://github.com/zendus/citizen-mdm.git
    cd citizen-mdm
    ```
 
@@ -110,7 +110,10 @@ The server will start at `http://localhost:8000`
 2. For conflicting fields (name, dob, gender):
    - The most frequent value is chosen
    - Conflicts are logged for auditing
-3. Non-conflicting fields (health_status, school_name) are combined
+3. For missing values:
+   - non-null values are chosen if existing
+   - if not, `None` is returned
+4. Non-conflicting fields (health_status, school_name) are combined
 
 ## Logging
 
