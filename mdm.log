@@ -1,0 +1,6 @@
+2025-02-02 20:47:29,389 - INFO - Name conflict resolved for citizen A1234: ['Johnmicheal Uzendu', 'Johnmicheal Uzendu'] -> Johnmicheal Uzendu
+2025-02-02 20:47:29,389 - INFO - Name conflict resolved for citizen B5678: ['Ifeoluwa Johnson', 'Ifeoluwa Johnson'] -> Ifeoluwa Johnson
+2025-02-02 20:47:29,389 - INFO - Data loaded successfully. Total records: 5
+2025-02-02 21:09:31,869 - INFO - Name conflict resolved for citizen A1234: ['Johnmicheal Uzendu', 'Johnmicheal Uzendu'] -> Johnmicheal Uzendu
+2025-02-02 21:09:31,869 - INFO - Name conflict resolved for citizen B5678: ['Ifeoluwa Johnson', 'Ifeoluwa Johnson'] -> Ifeoluwa Johnson
+2025-02-02 21:09:31,869 - INFO - Data loaded successfully. Total records: 5
